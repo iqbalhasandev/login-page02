@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
- 
+
 img {
 	height: 100%;
 	width: 100%;
@@ -59,7 +59,7 @@ img {
 	background: none;
 	border: 2px solid #ee5253;
 	color: #0097A7;
-	padding: 1rem 6rem;
+	padding: 1rem 6.5rem;
 	transition: all 0.8s ease-in-out;
 	cursor: pointer;
 }
